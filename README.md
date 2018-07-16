@@ -2,7 +2,7 @@
 
 In this mini project, we try to work on the iris dataset and apply many models to predict the flower species.
 
-The final R file is [here](https://github.com/abishekarun/Iris-dataset/blob/master/iris_data.R) for this project.
+The final R file is [here](https://github.com/abishekarun/iris/blob/master/iris_data.R) for this project.
 
 The resources that helped me are:
 
